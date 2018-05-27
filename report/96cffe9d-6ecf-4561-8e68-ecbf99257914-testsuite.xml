@@ -1,0 +1,21 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1527410257662" stop="1527410257662">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1527410257662" status="broken" stop="1527410257662">
+      <name>hhh</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>ImportError while importing test module 'C:\Users\Lenovo\Desktop\ggg\code\hhh.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+ModuleNotFoundError: No module named 'code.hhh'; 'code' is not a package</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
